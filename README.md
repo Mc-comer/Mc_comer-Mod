@@ -5,11 +5,7 @@
 Mc_comer Mod系列 版本更新
 
 
-
-2.4版本将会在2.6更新的时候删除
-
-
-当前最新版本是:  Mc_comer Mod2.5
+当前最新版本是:  Mc_comer Mod2.6
 
 
 
