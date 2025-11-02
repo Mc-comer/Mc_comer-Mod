@@ -5,7 +5,7 @@
 Mc_comer Mod系列 版本更新
 
 
-当前最新版本是:  Mc_comer Mod2.9
+当前最新版本是:  Mc_comer Mod3.0
 
 
 
