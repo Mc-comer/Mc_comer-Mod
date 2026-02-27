@@ -1,6 +1,7 @@
 {
-    "latest_version": "4.6",
+    "latest_version": "4.7",
     "download_url": "https://github.com/Mc-comer/Mc_comer-Mod/releases/download/Mod/Mc_comer_Mod.exe",
-    "release_notes": "✅修复指令函数\n✅修复文本函数\n✅修复满光照\n✅新增粒子足迹",
-    "download_QQ": "https://qm.qq.com/q/NHRV5yMuUU"
+    "release_notes": "✅升级至4.7版本\n✅新增维护状态检测",
+    "download_QQ": "https://qm.qq.com/q/NHRV5yMuUU",
+    "comer_switch": true
 }
